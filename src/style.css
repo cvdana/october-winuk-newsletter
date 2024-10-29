@@ -159,6 +159,11 @@ hr {
 .upcoming-events {
   background-color: #e570b5;
 }
+.black {
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
 .socials li {
   list-style: none;
 }
