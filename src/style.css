@@ -70,7 +70,7 @@ h1 .welcome {
 }
 h1 .month {
   font-size: 80px;
-  color: var(--third-colour);
+  color: #6a5ca2;
   padding: 0;
 }
 h2 {
@@ -90,24 +90,29 @@ hr {
 }
 .from {
   font-size: 40px;
-  color: var(--small-header-colour);
+  color: var(--big-header-colour);
   margin: 0;
   padding: 0;
   text-align: left;
 }
 .quote {
-  background-color: var(--box-colour);
+  background-color: #47a2a2;
   height: 190px;
   margin: auto;
 }
-.citation {
+.citation,
+.author {
   color: var(--text-colour);
   text-align: center;
 }
-.cite {
+.citation {
   font-style: italic;
 }
-
+.blockquote {
+  border: thick double #fff;
+  margin: 0 0 5px;
+  padding: 15px 0;
+}
 .newsletter-codirector {
   height: 170px;
   border-radius: 50%;
