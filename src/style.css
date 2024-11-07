@@ -156,19 +156,20 @@ hr {
 .socialmedia img {
   height: 300px;
 }
-
-.events-recap {
+.past-events {
+  background-color: #8e81c3;
+}
+.support {
   background-color: #3e9f9f;
 }
 
 .upcoming-events {
-  background-color: #e570b5;
+  background-color: #65569d;
 }
-.black {
-  height: 300px;
-  display: block;
-  margin: 0 auto;
+.support {
+  background-color: #4f447b;
 }
+
 .socials li {
   list-style: none;
 }
@@ -183,11 +184,10 @@ hr {
   background-color: #8e84b9;
 }
 .socials-two {
-  background-color: #9d629d;
+  background-color: #3e9f9f;
 }
 .pain {
-  height: 240px;
-  width: 420px;
+  height: 200px;
 }
 .socials-three {
   background-color: #6554a0;
@@ -200,8 +200,17 @@ hr {
 .PTYL {
   background-color: #4996bc;
 }
+.PTYL img {
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.mushroom {
+  display: block;
+  margin: 0 auto;
+}
 .section-one {
-  background-color: #db86b8;
+  background-color: #89bfc1;
 }
 .section-two {
   background-color: #c29cc0;
@@ -268,8 +277,9 @@ hr {
   text-align: center;
 }
 
-.events-recap a,
+.past-events a,
 .upcoming-events a,
+.support a,
 .socials a,
 .PTYL a,
 .research a,
